@@ -1,0 +1,6 @@
+    #text {
+    	color: white;
+    }
+    body#bodyGround.save {
+    	background: linear-gradient(90deg, orange, red)
+    }
