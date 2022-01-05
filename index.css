@@ -2,7 +2,7 @@
     	color: black;
     }
     body#bodyGround.save {
-    	background: linear-gradient(90deg, #00ff00, green);
+    	    background: linear-gradient(90deg, #00ff0000, #00800000);
     }
     .buttonOne#onebtn {
     	background: linear-gradient(90deg, red, orange);
